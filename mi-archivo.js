@@ -1,2 +1,2 @@
-"console.log('hola mundo')
-este es un ejemplo de uso de git y github
+console.log('hola mundo')
+console.log('Daniela Malespín Molina')
